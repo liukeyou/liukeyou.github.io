@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>bigdata</title><link href="http://Xdrv.com/" rel="alternate"></link><link href="http://Xdrv.com/feeds/all.atom.xml" rel="self"></link><id>http://Xdrv.com/</id><updated>2014-12-28T19:30:00+00:00</updated><entry><title>hadoop</title><link href="http://Xdrv.com/hadoop.html" rel="alternate"></link><updated>2014-12-28T18:30:00+00:00</updated><author><name>Liu Keyou</name></author><id>tag:Xdrv.com,2014-12-28:hadoop.html</id><summary type="html">&lt;p&gt;test
+test
+test
+test
+test
+test
+test
+test&lt;/p&gt;</summary></entry><entry><title>blog content</title><link href="http://Xdrv.com/blog-content.html" rel="alternate"></link><updated>2014-12-28T19:30:00+00:00</updated><author><name>Liu Keyou</name></author><id>tag:Xdrv.com,2014-12-28:blog-content.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;Bigdata&lt;/li&gt;
+&lt;li&gt;Cloud Computing&lt;/li&gt;
+&lt;/ol&gt;</summary></entry></feed>
