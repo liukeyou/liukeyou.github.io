@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>bigdata</title><link href="./" rel="alternate"></link><link href="./feeds%5Cliu-keyou.atom.xml" rel="self"></link><id>./</id><updated>2014-12-28T19:30:00+08:00</updated><entry><title>hadoop</title><link href="./hadoop.html" rel="alternate"></link><updated>2014-12-28T18:30:00+08:00</updated><author><name>Liu Keyou</name></author><id>tag:,2014-12-28:./hadoop.html</id><summary type="html">&lt;p&gt;中文&lt;/p&gt;</summary></entry><entry><title>blog content</title><link href="./blog-content.html" rel="alternate"></link><updated>2014-12-28T19:30:00+08:00</updated><author><name>Liu Keyou</name></author><id>tag:,2014-12-28:./blog-content.html</id><summary type="html">&lt;ol&gt;
+&lt;li&gt;Bigdata&lt;/li&gt;
+&lt;li&gt;Cloud Computing&lt;/li&gt;
+&lt;/ol&gt;</summary></entry></feed>
